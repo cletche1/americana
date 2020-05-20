@@ -1,0 +1,29 @@
+
+*{margin: 0; padding: 0;}
+
+body{ 
+background-color: rgb(240, 233, 233);
+    }
+div.sub-menu{
+width: auto;
+background-color: white;
+margin-left:15px;
+
+}
+span{
+width:auto;
+height: initial;
+}
+footer{
+text-align: center;
+background-color: black;
+color: white;
+}
+nav{
+color: white;
+}
+p.aviso{
+  text-align: center;
+  color: white;
+
+}
